@@ -1,11 +1,24 @@
-<center>
-# flipper-zero-bad-usb
-</center>
+
+<div align="center">
+  <h1><code>Flipper Zero: BadUSB Scripts</code></h1>
+  <p>
+    <strong>My scripts for the Flipper Zero BadUSB</strong>
+  </p>
+</div>
 
 <img src="https://github.com/SeenKid/flipper-zero-bad-usb/blob/74e6f916bd71bdd2c597bbf4a6af268f3f95fc2a/utils/imgs/Z7KSHodItHk5UKKCgmWdP_badusb1.png" height="380" width="1050" >
 
-My collection of badUSB scripts for the Flipper Zero
+## Requirements ##
+- Flipper Zero
+- Internet connection
 
+## Installation ##
+- Download the repo
+- drag&drop repo files in qflipper (SD Card/badusb)
+- You are ready :)
+
+
+## Informations ##
 ![GitHub all releases](https://img.shields.io/github/downloads/SeenKid/flipper-zero-bad-usb/total?logo=GitHub) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/SeenKid/flipper-zero-bad-usb) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SeenKid/flipper-zero-bad-usb) 
