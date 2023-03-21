@@ -13,7 +13,7 @@
 - Internet connection
 
 ## Installation ##
-- Download the repo
+- Download the repo [HERE](https://github.com/SeenKid/flipper-zero-bad-usb/releases/tag/1.0)
 - drag&drop repo files in qflipper (SD Card/badusb)
 - You are ready :)
 
