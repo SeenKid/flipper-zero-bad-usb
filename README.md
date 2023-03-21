@@ -3,12 +3,12 @@
   <h1><code>Flipper Zero: BadUSB Scripts</code></h1>
   <p>
     <strong>My scripts for the Flipper Zero BadUSB</strong> <br/>
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSeenKid%2Fflipper-zero-bad-usb"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid%2Fflipper-zero-bad-usb&label=Views&labelColor=%23ff8a65&countColor=%23f47373" /></a>
   </p>
 </div>
 
 <img src="https://github.com/SeenKid/flipper-zero-bad-usb/blob/74e6f916bd71bdd2c597bbf4a6af268f3f95fc2a/utils/imgs/Z7KSHodItHk5UKKCgmWdP_badusb1.png" height="380" width="1050" >
 
-    [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid%2Fflipper-zero-bad-usb&label=Views&labelColor=%23ff8a65&countColor=%23f47373)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSeenKid%2Fflipper-zero-bad-usb)
 
 ## Requirements ##
 - Flipper Zero
