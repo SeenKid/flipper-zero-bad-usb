@@ -35,7 +35,10 @@ By downloading and using the scripts provided, you are automatically agreeing to
 2. You are ``permitted`` to share all of the files.
 3. You are ``allowed`` to modify the files, but are still responsible for your own actions.
 4. If you are using my scripts in your own repo, please consider giving credits.
-5. You are allowed to do everything the license says...
+5. Please, check the license file
 
 ## Contact ##
 - seenkid#1337 on discord
+
+## Credits ## 
+- [UNC0V3R3D](https://github.com/UNC0V3R3D)
