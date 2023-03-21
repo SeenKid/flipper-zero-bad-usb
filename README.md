@@ -1,5 +1,7 @@
 # flipper-zero-bad-usb
-My collection of badUSB scripts
+
+
+My collection of badUSB scripts for the Flipper Zero
 
 ![GitHub all releases](https://img.shields.io/github/downloads/SeenKid/flipper-zero-bad-usb/total?logo=GitHub) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/SeenKid/flipper-zero-bad-usb) 
