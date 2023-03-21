@@ -1,0 +1,11 @@
+REM Author: SeenKid (seenkid#1337 on Discord)
+REM Description: Starts a matrix command prompt
+REM Version: 1.0
+DELAY 800
+GUI r
+DELAY 800
+STRING https://hackertyper.io/
+ENTER
+DELAY 2000
+F11
+STRING SeenKid IS THE BEST 

