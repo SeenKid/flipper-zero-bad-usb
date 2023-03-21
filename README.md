@@ -1,4 +1,6 @@
+<center>
 # flipper-zero-bad-usb
+</center>
 
 <img src="https://github.com/SeenKid/flipper-zero-bad-usb/blob/74e6f916bd71bdd2c597bbf4a6af268f3f95fc2a/utils/imgs/Z7KSHodItHk5UKKCgmWdP_badusb1.png" height="380" width="1050" >
 
