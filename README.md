@@ -2,7 +2,8 @@
 <div align="center">
   <h1><code>Flipper Zero: BadUSB Scripts</code></h1>
   <p>
-    <strong>My scripts for the Flipper Zero BadUSB</strong> <br/><br/>
+    <strong>My scripts for the Flipper Zero BadUSB</strong> <br/>
+    WARNING : SOME SCRIPTS MAY NOT WORK ON SLOW COMPUTERS ! <br/><br/>
     <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSeenKid%2Fflipper-zero-bad-usb"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid%2Fflipper-zero-bad-usb&label=Views&labelColor=%23ff8a65&countColor=%23f47373" /></a>
   </p>
 </div>
