@@ -13,7 +13,7 @@
 | MacOS   | :x:                |
 | Linux   | :x:                |
 
-* Some of my scripts may not work with these versions of windows.
+*Some of my scripts may not work with these versions of windows.
 
 ## Bug or problems ? 
 - seenkid#1337 on discord and open a github issue, i'll fix it ASAP
