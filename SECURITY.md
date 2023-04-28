@@ -8,6 +8,7 @@
 | Android | :white_check_mark: |
 | Win11   | :white_check_mark: |
 | Win10   | :white_check_mark: |
+| Win7    | :warning:          |
 | MacOS   | :x:                |
 | Linux   | :x:                |
 
