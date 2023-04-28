@@ -4,6 +4,8 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
+| IOS     | :white_check_mark: |
+| Android | :white_check_mark: |
 | Win11   | :white_check_mark: |
 | Win10   | :white_check_mark: |
 | MacOS   | :x:                |
