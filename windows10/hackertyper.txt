@@ -1,5 +1,5 @@
-REM Author: SeenKid (seenkid#1337 on Discord)
-REM Description: Starts hackertyper.io in the default navigator
+REM Author: SeenKid (seenkid on Discord)
+REM Description: Starts hackertyper.io in the default navigator in full screen
 REM Version: 1.0
 DELAY 500
 GUI r
