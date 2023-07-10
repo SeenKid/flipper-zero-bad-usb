@@ -1,4 +1,4 @@
-REM Author: UNC0V3R3D (UNC0V3R3D#8662 on Discord) | SeenKid (seenkid#1337 on discord)
+REM Author: UNC0V3R3D (UNC0V3R3D on Discord) | SeenKid (seenkid on discord)
 REM Description: Open website on an iPhone.
 REM Version: 1.0
 REM WARNING : THIS IS NOT WORKING ON OLD IPHONES
