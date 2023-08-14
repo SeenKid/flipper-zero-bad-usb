@@ -1,4 +1,4 @@
-REM Author: SeenKid (seenkid#1337 on Discord)
+REM Author: SeenKid (seenkid on Discord)
 REM Description: Opens you are an idiot song
 REM Version: 1.0
 DELAY 600
