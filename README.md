@@ -43,7 +43,7 @@ By downloading and using the scripts provided, you are automatically agreeing to
 5. Please, check the license file
 
 ## Contact ##
-- seenkid#1337 on discord
+- seenkid on discord
 
 ## Credits ## 
 - [UNC0V3R3D](https://github.com/UNC0V3R3D)
