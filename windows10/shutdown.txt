@@ -1,0 +1,11 @@
+REM Author: wehlou
+REM Description: shutdowns the pc in 10 seconds 
+REM Version: 1.5
+DELAY 500
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 1000
+string shutdown -s -t 10
+ENTER
