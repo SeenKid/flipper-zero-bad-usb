@@ -1,0 +1,9 @@
+REM Author: nkwcxnn
+REM Description: Open any website on Adnroid phones (may not work for every phones).
+REM Version: 1.6.1
+
+GUI b
+DELAY 700
+CTRL l
+DELAY 700
+STRINGLN website.net
