@@ -1,0 +1,10 @@
+REM Author: SeenKid (seenkid on Discord)
+REM Description: Starts a nyan cat video on victim's computer
+REM Version: 1.0
+DELAY 500
+GUI r
+DELAY 500
+STRING https://youtu.be/2yJgwwDcgV8?si=2wt4DymR7MoIcL_x
+ENTER
+DELAY 1500
+F11
