@@ -1,14 +1,15 @@
-REM Author: UNC0V3R3D (UNC0V3R3D on Discord) | SeenKid (seenkid on discord)
-REM Description: Open website on an iPhone.
-REM Version: 1.0
-REM WARNING : THIS IS NOT WORKING ON OLD IPHONES
-DELAY 1000
-GUI SPACE
-DELAY 500
-STRING safari
-DELAY 500
-ENTER
-DELAY 1000
-STRING https://shnapshnoot.ch/
-DELAY 500
+REM Author: SeenKid (seenkid on discord)
+REM Description: Open a website 
+REM Version 2.0
+DELAY 1000 
+GUI SPACE 
+DELAY 1000 
+STRING safari 
+DELAY 1000 
+ENTER 
+DELAY 1000 
+GUI L 
+REM Insert your website below 
+STRING australis-hosting.com
+DELAY 1000 
 ENTER
