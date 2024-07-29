@@ -5,7 +5,8 @@
     <strong>My scripts for the Flipper Zero BadUSB</strong> <br/>
     WARNING : SOME SCRIPTS MAY NOT WORK ON SLOW COMPUTERS ! (You can add more delay to make them work) <br/>
     EDIT : Thanks everyone for downloading my scripts ! <strong>Don't forget to star the project <3 </strong><br/>
-    If you feel like to, follow me on github and explore my github repositories ! <br/><br/>
+    If you feel like to, follow me on github and explore my github repositories ! <br/>
+      <strong>If your AntiVirus doesn't let you download the release, download the "bad-usb-without-memz" version.</strong><br/><br/>
     <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSeenKid%2Fflipper-zero-bad-usb"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid%2Fflipper-zero-bad-usb&label=Views&labelColor=%23ff8a65&countColor=%23f47373" /></a>
   </p>
 </div>
