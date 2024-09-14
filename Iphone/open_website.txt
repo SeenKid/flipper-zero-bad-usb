@@ -11,6 +11,6 @@ ENTER
 DELAY 1000 
 GUI L 
 REM Insert your website below 
-STRING australis-hosting.com
+STRING croustycloud.fr
 DELAY 1000 
 ENTER
