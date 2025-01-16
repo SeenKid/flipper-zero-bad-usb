@@ -22,6 +22,7 @@
 - Download the repo [HERE](https://github.com/SeenKid/flipper-zero-bad-usb/releases/latest)
 - drag&drop repo files in qflipper (SD Card/badusb)
 - You are ready :)
+- Double check if the keyboard layout on the flipper-zero is the same as on the computer
 
 ## Sponsoring
 If you would like to help me ~~dealing with my sushis addiction~~ **making this project even greater**, feel free to sponsor me. All sponsors buttons are on the right.
