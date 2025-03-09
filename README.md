@@ -7,9 +7,10 @@
     EDIT : Thanks everyone for downloading my scripts ! <strong>Don't forget to star the project <3 </strong><br/>
     If you feel like to, follow me on github and explore my github repositories ! <br/>
       <strong>If your AntiVirus doesn't let you download the release, download the "bad-usb-without-memz" version.</strong><br/><br/>
-      <p>(Might work with M5Stack products, but I am unable to provide support. I do not own those devices.)</p><br/>
     <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSeenKid%2Fflipper-zero-bad-usb"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid%2Fflipper-zero-bad-usb&label=Views&labelColor=%23ff8a65&countColor=%23f47373" /></a>
   </p>
+            <p>(Might work with M5Stack products, but I am unable to provide support. I do not own those devices.)</p><br/>
+            <p>Join the <a href="https://discord.gg/xpWSW7pNhc">Discord Server</a></p><br/>
 </div>
 
 <img src="https://github.com/SeenKid/flipper-zero-bad-usb/blob/74e6f916bd71bdd2c597bbf4a6af268f3f95fc2a/utils/imgs/Z7KSHodItHk5UKKCgmWdP_badusb1.png" height="380" width="1050" >
