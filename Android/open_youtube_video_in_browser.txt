@@ -5,7 +5,13 @@ REM Version: 1.0
 GUI b
 DELAY 700
 CTRL l
-DELAY 700
+DELAY 1000
 STRINGLN https://www.youtube.com/watch?v=dQw4w9WgXcQ
 DELAY 2000
-ROTATE landscape
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+ENTER
