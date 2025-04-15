@@ -5,9 +5,9 @@ REM Version: 1.0
 GUI b
 DELAY 700
 CTRL l
-DELAY 1000
+DELAY 1500
 STRINGLN https://www.youtube.com/watch?v=dQw4w9WgXcQ
-DELAY 2000
+DELAY 2200
 TAB
 TAB
 TAB
