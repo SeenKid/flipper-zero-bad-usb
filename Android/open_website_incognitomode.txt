@@ -6,4 +6,4 @@ GUI b
 DELAY 700
 CTRL l
 DELAY 700
-STRINGLN website.net
+STRINGLN damplips.com
